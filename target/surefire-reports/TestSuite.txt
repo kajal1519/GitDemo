@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 78.055 s <<< FAILURE! - in TestSuite
+practice.AppiumFramework.TestCase1.totalValidation[hello](1)  Time elapsed: 39.926 s  <<< FAILURE!
+java.lang.NullPointerException
+	at practice.AppiumFramework.TestCase1.totalValidation(TestCase1.java:112)
+
+practice.AppiumFramework.TestCase1.totalValidation[@#$!%](2)  Time elapsed: 35.871 s  <<< FAILURE!
+java.lang.NullPointerException
+	at practice.AppiumFramework.TestCase1.totalValidation(TestCase1.java:112)
+
